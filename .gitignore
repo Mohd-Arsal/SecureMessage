@@ -1,0 +1,14 @@
+# Android Studio files
+.gradle/
+*/build/
+local.properties
+
+# User-specific configurations
+.idea/
+*.iml
+*.hprof
+*.log
+
+# Miscellaneous
+*.apk
+*.ap_
