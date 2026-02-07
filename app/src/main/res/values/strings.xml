@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Secure Message</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="error_empty_message">Message cannot be empty.</string>
+    <string name="ui_welcome_message">Welcome to Secure Message!</string>
+    <string name="ui_instruction">Please enter your message below:</string>
+</resources>
